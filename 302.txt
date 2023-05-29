@@ -1,0 +1,13 @@
+Title:-Forest exploration robot final
+
+Goal of the Project:
+In class 287, we have added a camera to our Planet Exploration Robot. We have also programmed it to take pictures of its surroundings. In this project, we will add a camera to our forest exploration robot and program it to take pictures of its surroundings.
+
+Story:
+Paul is building a robot which will help to explore and survey the forest. To survey the forest well, we need a camera installed on the robot. This camera should be able to take pictures of the forest. These pictures can be used to identify different types of vegetation.
+
+Specific Tasks to complete the Project:
+Add a camera to the Forest Exploration robot.
+Write code to add the following functionalities:
+When the user presses “s”, use the getImage() and saveImage() method to store pictures taken by the camera.
+Make sure that the images are with different names such as pic0, pic1, pic2 and so on.
